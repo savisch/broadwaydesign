@@ -2,6 +2,10 @@
     font-family: Helvetica, Sans-serif;
 }
 
+a {
+    color: white;
+}
+
 body {
     text-align: center;
 }
